@@ -1,5 +1,5 @@
 FROM debian:bullseye
-MAINTAINER Adrian Dvergsdal [atmoz.net]
+MAINTAINER Jonathan Halls
 
 # Steps done in one RUN layer:
 # - Install packages
