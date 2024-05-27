@@ -1,6 +1,9 @@
 FROM debian:bullseye
 MAINTAINER Jonathan Halls
 
+LABEL org.opencontainers.image.source=https://github.com/Frigeon/sftp
+LABEL org.opencontainers.image.description="SFTP with Port Forwarding allowed."
+
 # Steps done in one RUN layer:
 # - Install packages
 # - OpenSSH needs /var/run/sshd to run
