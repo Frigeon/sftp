@@ -2,9 +2,9 @@
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/frigeon/sftp/build.yml?logo=github) ![GitHub stars](https://img.shields.io/github/stars/frigeon/sftp?logo=github) ![Docker Stars](https://img.shields.io/docker/stars/frigeon/sftp?label=stars&logo=docker) ![Docker Pulls](https://img.shields.io/docker/pulls/frigeon/sftp?label=pulls&logo=docker)
 
-Repo Forked from Atmoz SFTP
+Forked from [`atmoz/sftp`](https://hub.docker.com/r/atmoz/sftp) to modify Port Tunneling Settings
 
-![OpenSSH logo](https://raw.githubusercontent.com/frigeon/sftp/master/openssh.png "Powered by OpenSSH")
+![OpenSSH logo](https://raw.githubusercontent.com/atmoz/sftp/master/openssh.png "Powered by OpenSSH")
 
 # Supported tags and respective `Dockerfile` links
 
